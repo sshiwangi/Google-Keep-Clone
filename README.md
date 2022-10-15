@@ -19,4 +19,4 @@ It is a google keep clone built using html and css.
 
 ## Features
 
-It is responsive and is an exact replica of the original website.
+It is responsive and is an exact replica of the original website..
